@@ -1,0 +1,9 @@
+{
+  "bestiary": {
+    "group": "ftblibrary:info",
+    "icon": "ftblibrary:icons/notes",
+    "x": 100,
+    "click": "sdm_bestiary:open_gui",
+    "loading_screen": true
+  }
+}
