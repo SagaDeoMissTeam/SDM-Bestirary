@@ -1,0 +1,17 @@
+Java Launcher: C:\Program Files\Java\jdk-17\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\sixik\.gradle\caches\modules-2\files-2.1\curse.maven\modern-ui-352491\4856541\285777a90dabe38d29faad205bf393186fc450c4\modern-ui-352491-4856541.jar, --output, C:\Users\sixik\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\modern-ui-352491\4856541_mapped_official_1.20.1\modern-ui-352491-4856541_mapped_official_1.20.1.jar, --mcp, C:\Users\sixik\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip, --strip-signatures'
+Classpath:
+ - C:\Users\sixik\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.3.2\installertools-1.3.2-fatjar.jar
+Working directory: G:\Java\SDM Bestiary\build\_RenameSrg2Mcp_553643234
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\sixik\.gradle\caches\modules-2\files-2.1\curse.maven\modern-ui-352491\4856541\285777a90dabe38d29faad205bf393186fc450c4\modern-ui-352491-4856541.jar
+Output: C:\Users\sixik\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\modern-ui-352491\4856541_mapped_official_1.20.1\modern-ui-352491-4856541_mapped_official_1.20.1.jar
+MCP:    C:\Users\sixik\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Stripped signature entry data META-INF/ICYLLIS.SF
+Stripped signature entry data META-INF/ICYLLIS.RSA
+Process complete
